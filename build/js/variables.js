@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 13 Jun 2021 17:23:07 GMT
+ * Generated on Sun, 13 Jun 2021 17:33:58 GMT
  */
 
 export const GreyScaleDarkerGrey = "rgba(65, 71, 94, 1)";
@@ -177,4 +177,4 @@ export const SmallTextLetterSpacing = -1;
 export const SmallTextLineHeight = 150;
 export const SmallTextParagraphIndent = 0;
 export const SmallTextParagraphSpacing = 0;
-export const SmallTextTextCase = "none";
+export const SmallTextTextCase = 0;
